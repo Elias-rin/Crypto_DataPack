@@ -2,6 +2,8 @@
 #### 概要
 Minecraft Command Advent Calendar 2024 配布データパック
 
+https://qiita.com/advent-calendar/2024/mccmd
+
 #### 対応バージョン
 1.21.3
 
